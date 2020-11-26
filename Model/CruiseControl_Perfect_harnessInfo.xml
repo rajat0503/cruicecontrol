@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">CruiseControl_Perfect_TestHarness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">colosky</P>
+    <P Name="CreatedOn">Fri Mar 20 03:51:41 2015</P>
+    <P Name="ModifiedBy">promero</P>
+    <P Name="LastSaved">Tue May 12 23:08:18 2020</P>
+    <P Name="Owner">bd</P>
+    <P Name="OwnerType">BD_HARNESS</P>
+    <P Name="OwnerPath">.</P>
+    <P Name="LockMode">off</P>
+    <P Name="Directory"/>
+    <P Name="FileName">CruiseControl_Perfect_TestHarness.slx</P>
+    <P Name="SavedVersion">10.1</P>
+    <P Name="HarnessUUID">e1eb5f05-ed8a-4c8d-9f1d-6fa1991ecff9</P>
+    <P Name="HarnessConnectionsMap">0,1,2,3,4|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="OwnerBDName">CruiseControl_Perfect</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">2</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">0</P>
+    <P Name="SourceTypeString">Signal Editor</P>
+    <P Name="SinkTypeString">None</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">10|39|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <Harness>
+    <P Name="Name">CruiseControl_Perfect_TopItOffHarness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">yleong</P>
+    <P Name="CreatedOn">Mon May 11 14:04:35 2020</P>
+    <P Name="ModifiedBy">promero</P>
+    <P Name="LastSaved">Tue May 12 23:08:54 2020</P>
+    <P Name="Owner">bd</P>
+    <P Name="OwnerType">BD_HARNESS</P>
+    <P Name="OwnerPath">.</P>
+    <P Name="LockMode">off</P>
+    <P Name="Directory"/>
+    <P Name="FileName">CruiseControl_Perfect_TopItOffHarness.slx</P>
+    <P Name="SavedVersion">10.1</P>
+    <P Name="HarnessUUID">95e60de6-1a0d-4daa-b72a-114e44651375</P>
+    <P Name="HarnessConnectionsMap">0,1,2,3,4|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="OwnerBDName">CruiseControl_Perfect</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">1</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">0</P>
+    <P Name="SourceTypeString">Inport</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|24|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+</HarnessInformation>
